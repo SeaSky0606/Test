@@ -1,0 +1,4 @@
+this is data for data3.txt as follows:
+111
+222
+333
